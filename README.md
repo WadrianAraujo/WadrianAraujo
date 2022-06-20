@@ -1,7 +1,7 @@
-### Salve! Eu sou o Wadrian Araujo (Vulgo BalaLove)
+### Salve! Eu sou o Wadrian Araujo
 
 - 🔭 Hoje trabalho com Desenvolvimento de jogos utilizando Unity
-
+- 📘 Estudante de Sistemas de Informação (UEA)
 <div align="center">
   <a href="https://github.com/WadrianAraujo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WadrianAraujo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
