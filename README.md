@@ -1,6 +1,6 @@
 ### Salve! Eu sou o Wadrian Araujo
 
-- 🔭 Hoje trabalho com Desenvolvimento de jogos utilizando Unity
+- 🔭 Trabalho Atualmente com Desenvolvimento de jogos utilizando Unity
 - 📘 Estudante de Sistemas de Informação (UEA)
 <div align="center">
   <a href="https://github.com/WadrianAraujo">
