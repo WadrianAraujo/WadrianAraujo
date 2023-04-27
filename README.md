@@ -16,7 +16,8 @@
   <img align="center" alt="Wadrian" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Wadrian" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg">
   <img align="center" alt="Wadrian" height="60" width="60" src="https://cdn-icons-png.flaticon.com/512/2620/2620863.png">
-  <img align="center" alt="Wadrian" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" />
+  <img align="center" alt="Wadrian" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg" />
+  <img align="center" alt="Wadrian" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
 </div>
 <br>
 <br>
