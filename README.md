@@ -10,7 +10,6 @@
   
 <div align="center"><br>
   <img align="center" alt="Wadrian" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Wadrian" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" />
   <img align="center" alt="Wadrian" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
   <img align="center" alt="Wadrian" height="60" width="60" src="https://icon-library.com/images/unity-icon-png/unity-icon-png-23.jpg" />
   <img align="center" alt="Wadrian" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
