@@ -14,7 +14,7 @@ I'm a mobile developer passionate about technology from Brazil
 
 - 💼 Software Developer at [Ludus](https://www.luduslab.org/)
 
-- 🎮Game developer and passionate about childhood video games.
+- 🎮 Game developer and passionate about childhood video games.
 
 - ❤️ I love to learn and work with new things
 
@@ -24,7 +24,7 @@ I'm a mobile developer passionate about technology from Brazil
 - 👁️ AWS, SAST, DAST, CI/CD.
 - ✅ Test Runner, JUnit.
 - 🏛️ Design Patterns, MVVM, Koin.
-+ a lot more :D
++ A lot more :D
 
 ## Contact
 - [Wadrian Araujo](https://www.linkedin.com/in/wadrian-araujo/) on Linkedin
