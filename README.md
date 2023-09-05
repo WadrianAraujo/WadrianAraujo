@@ -10,7 +10,7 @@
 
 I'm a mobile developer passionate about technology from Brazil
 
-**About me**
+## **About me**
 
 - 💼 Software Developer at [Ludus](https://www.luduslab.org/)
 
@@ -18,7 +18,7 @@ I'm a mobile developer passionate about technology from Brazil
 
 - ❤️ I love to learn and work with new things
 
-## Skills
+## **Skills**
 - 👨‍💻 Kotlin, Java, C#, Python.
 - ⚙️ Unity, Android, Ktor, Jetpack Compose, Selenium.
 - 👁️ AWS, SAST, DAST, CI/CD.
