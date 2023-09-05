@@ -22,7 +22,7 @@ I'm a mobile developer passionate about technology from Brazil
 - 👨‍💻 Kotlin, Java, C#, Python.
 - ⚙️ Unity, Android, Ktor, Jetpack Compose, Selenium.
 - 👁️ AWS, SAST, DAST, CI/CD.
-- ✅ Test Runne, JUnit.
+- ✅ Test Runner, JUnit.
 - 🏛️ Design Patterns, MVVM, Koin.
 + a lot more :D
 
