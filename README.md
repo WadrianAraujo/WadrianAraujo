@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Software+Enginer;Game+Developer;Enthusiastic+Android+developer+with+kotlin;Full-time+Deal+Hunter!&font=Fira%20Code&center=true&width=535&height=50&duration=4000&pause=1000"">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Software+Engineer;Game+Developer;Enthusiastic+Android+developer+with+kotlin;Full-time+Deal+Hunter!&font=Fira%20Code&center=true&width=535&height=50&duration=4000&pause=1000"">
 </p>
 
 I'm a mobile developer passionate about technology from Brazil
