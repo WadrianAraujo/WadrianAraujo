@@ -24,7 +24,7 @@ I'm a mobile developer passionate about technology from Brazil.
 - 👁️ AWS, SAST, DAST, CI/CD.
 - ✅ Test Runner, JUnit.
 - 🏛️ Design Patterns, MVVM.
-+ A lot more :D
++ A lot more :D.
 
 ## Contact
 - [Wadrian Araujo](https://www.linkedin.com/in/wadrian-araujo/) on Linkedin.
