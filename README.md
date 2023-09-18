@@ -21,7 +21,6 @@ I'm a mobile developer passionate about technology from Brazil.
 ## **Skills**
 - 👨‍💻 Kotlin, Java, C#, Python.
 - ⚙️ Unity, Android, Ktor, Koin, ROOM, Jetpack Compose.
-- 👁️ AWS, SAST, DAST, CI/CD.
 - ✅ Test Runner, JUnit.
 - 🏛️ Design Patterns, MVVM.
 + A lot more :D.
