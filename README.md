@@ -28,3 +28,10 @@ I'm a mobile developer passionate about technology from Brazil.
 ## Contact
 - [Wadrian Araujo](https://www.linkedin.com/in/wadrian-araujo/) on Linkedin.
 - [@wadrian.araujo](./) on Discord.
+
+###
+
+<div align="center">
+  <img src="https://github.com/WadrianAraujo/WadrianAraujo/assets/83624647/d4c65740-3659-463e-b39f-d95cddaa9d8c" alt="Centered GIF" width="600">
+</div>
+
