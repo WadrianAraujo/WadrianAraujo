@@ -27,7 +27,6 @@ I'm a mobile developer passionate about technology from Brazil.
 
 ## Contact
 - [Wadrian Araujo](https://www.linkedin.com/in/wadrian-araujo/) on Linkedin.
-- [@wadrian.araujo](./) on Discord.
 
 ###
 
