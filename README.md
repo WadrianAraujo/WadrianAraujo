@@ -12,7 +12,7 @@ I'm a mobile developer passionate about technology from Brazil.
 
 ## **About me**
 
-- 💼 Software Developer at [Ludus](https://www.luduslab.org/).
+- 💼 Software Developer at [Linkapital](https://www.linkapital.com.br/).
 
 - 🎮 Game developer and passionate about childhood video games.
 
