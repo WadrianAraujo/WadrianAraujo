@@ -14,8 +14,6 @@ I'm a mobile developer passionate about technology from Brazil.
 
 - 💼 Software Developer at [Linkapital](https://www.linkapital.com.br/).
 
-- 🎮 Game developer and passionate about childhood video games.
-
 - ❤️ I love to learn and work with new things.
 
 ## **Skills**
