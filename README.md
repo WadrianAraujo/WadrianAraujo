@@ -18,7 +18,7 @@ I'm a mobile developer passionate about technology from Brazil.
 
 ## **Skills**
 - 👨‍💻 Kotlin, Java, C#, Python.
-- ⚙️ Sprigboot, Android, Unity.
+- ⚙️ Springboot, Android, Unity.
 - ✅ Test Runner, JUnit.
 + A lot more :D.
 
